@@ -4,7 +4,7 @@ import stockImage from "./image/stock.jpg"; // Ensure the image path is correct
 import "./App.css";
 import Inputbox from "./component/inputbox";
 import useCurrencyData from "./hook/currencycon"
-import infoDetail from "./component/info";
+;
 import linkdinImage from "./assets/Linkdin.png"
 import githubImage from "./assets/github.png"
 
