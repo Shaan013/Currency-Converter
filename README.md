@@ -1,4 +1,6 @@
 # Currency Converter
+## 🌐 Live Demo
+[Click here to visit the app](https://currency-converter-is5n.onrender.com/)
 
 A simple currency converter built with React.js that fetches real-time exchange rates using the **Exchange Rate API**.
 
