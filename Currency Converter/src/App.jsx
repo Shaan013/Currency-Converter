@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import stockImage from "./image/stock.jpg"; // Ensure the image path is correct
 import "./App.css";
-import Inputbox from "./component/inputbox";
+import Inputbox from "./component/Inputbox"
 import useCurrencyData from "./hook/currencycon"
 ;
 import linkdinImage from "./assets/Linkdin.png"
